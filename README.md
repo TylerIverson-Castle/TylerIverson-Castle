@@ -17,7 +17,7 @@ My work includes:
 - **Full-stack delivery:** a Laravel API, Vue 3 and TypeScript front end, and containerized AWS infrastructure.
 - **Data integrations:** ingesting roughly 50,000 listings from two MLS providers on an integration built for three, reconciling inconsistent schemas, and deduplicating overlapping records.
 - **Access control:** tenant isolation, authentication, and authorization boundaries for shared listings and private records.
-- **Developer tooling:** a self-service provider-onboarding portal that reduced setup from about a week of engineering work to minutes.
+- **Platform administration:** leading the team behind an admin portal for connecting MLS providers, configuring display-compliance rules, and choosing which brokerages receive each feed.
 - **Legacy modernization:** maintaining an existing PHP application while building and deploying its replacement.
 
 ## How I work
