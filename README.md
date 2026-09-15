@@ -14,7 +14,7 @@ I’m the founding engineer and engineering lead at **ABC Amplified**, a multi-t
 
 My work includes:
 
-- **Full-stack delivery:** a Laravel API, Vue 3 and TypeScript front end, and containerized AWS infrastructure.
+- **Full-stack delivery:** a Laravel API, a Vue 3 front end with server-side rendering, and containerized AWS infrastructure.
 - **Data integrations:** ingesting roughly 50,000 listings from two MLS providers on an integration built for three, reconciling inconsistent schemas, and deduplicating overlapping records.
 - **Access control:** tenant isolation, authentication, and authorization boundaries for shared listings and private records.
 - **Platform administration:** leading the team behind an admin portal for connecting MLS providers, configuring display-compliance rules, and choosing which brokerages receive each feed.
@@ -30,7 +30,7 @@ I also mentor engineers, establish review standards, and use production logs and
 
 ## Technologies
 
-- **Application development:** PHP, Laravel, TypeScript, JavaScript, Vue 3
+- **Application development:** PHP, Laravel, JavaScript, Vue 3
 - **Data and background processing:** MySQL, MongoDB, Redis, Laravel Horizon
 - **Infrastructure:** AWS ECS/Fargate, RDS, S3, CloudFront, Docker, Nginx
 - **Testing:** Pest, Vitest, Playwright
